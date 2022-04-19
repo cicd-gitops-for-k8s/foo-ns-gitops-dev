@@ -70,3 +70,5 @@ spec:
         resources:
           limits:
             memory: 768Mi
+      imagePullSecrets:
+        - name: artifact-registry
