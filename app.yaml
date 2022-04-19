@@ -27,8 +27,6 @@ spec:
         app: foo
     spec:
       containers:
-      imagePullSecrets:
-        - name: artifact-registry
       - env:
         - name: HOST_IP
           valueFrom:
