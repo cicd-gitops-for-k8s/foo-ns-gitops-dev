@@ -66,9 +66,9 @@ spec:
             path: /actuator/health/readiness
             port: 8080
           initialDelaySeconds: 2
-          timeoutSeconds: 10
+          timeoutSeconds: 11
         resources:
           limits:
             memory: 768Mi
       imagePullSecrets:
-        - name: artifact-registry
+      - name: artifact-registry
