@@ -5,10 +5,8 @@ metadata:
 spec:
   ports:
   - port: 8080
-    targetPort: 8080
   selector:
     app: foo
-  type: ClusterIP
 ---
 apiVersion: apps/v1
 kind: Deployment
