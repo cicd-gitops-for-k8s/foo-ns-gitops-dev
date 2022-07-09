@@ -1,1 +1,1 @@
-Update image with digest: us-central1-docker.pkg.dev/sp1-21-gateway/gitops/foo@sha256:bbdf8b0e522d7062437a5cdc318db254abe4ac71d3dd90603838c0665cd50c66 
+Update image with digest: us-central1-docker.pkg.dev/sp1-21-gateway/gitops/foo@sha256:dee2800833c28a06568deded63a75311569777b7b1943ff6ba5e89ef18f5036c 
